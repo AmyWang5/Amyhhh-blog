@@ -9,7 +9,7 @@
 
 - 在文件夹内右键，点击open in terminal，输入touch 文件名.md
 - 记得在touch后加空格，.md是文件的类型
-- 创建后，右键选择open with other application，点击View all applications，找到![1](./Screenshots/1.jpg),点击它随后点击右上角的selsct就OK了。
+- 创建后，右键选择open with other application，点击View all applications，找到![1](./Screenshots/1.jpg),点击它随后点击右上角的select就OK了。
 
 
 
