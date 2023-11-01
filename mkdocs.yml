@@ -29,8 +29,7 @@ theme:
 nav:
   - 主页: index.md
   - 附录:
-    - okok: AMY1/time.md
-    - haha: AMY1/amy1.md
+    - 新手教程: WJX1/onetime.md
 plugins:
   - mermaid2:
       arguments:
