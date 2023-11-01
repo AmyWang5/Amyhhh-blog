@@ -30,7 +30,7 @@ nav:
   - 主页: index.md
   - 附录:
     -okok: AMY1/time.md
-    -haha: AMY1/amy.md
+    -haha: AMY1/amy1.md
 plugins:
   - mermaid2:
       arguments:
