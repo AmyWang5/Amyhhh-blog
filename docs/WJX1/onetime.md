@@ -1,4 +1,4 @@
-# 小白第一次用博客
+# 小白第一次用博客www
 
 ## 博客上传更新~
 
@@ -11,8 +11,26 @@
 - 记得在touch后加空格，.md是文件的类型
 - 创建后，右键选择open with other application，点击View all applications，找到![1](./Screenshots/1.jpg),点击它随后点击右上角的select就OK了。
 
+## 如何联网~
 
+以下三条代码是关键！！！
 
+- sudo service NetworkManager stop
+- sudo rm /var/lib/NetworkManager/NetworkManager.state
+- sudo service NetworkManager start
 
+## 如何使用Markdown~
 
-今天先写到这吧~明天见家人们！（最后在控诉一下zrq同志，抛弃我们先走了www
+### 标题
+
+- 一级：#
+- 二级：##
+- 三级：###
+
+### 无序列表
+
+使用“-”或者“*”
+
+### 引用
+
+使用“>”
