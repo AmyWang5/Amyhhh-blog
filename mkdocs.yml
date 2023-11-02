@@ -31,6 +31,7 @@ nav:
   - 附录:
     - 新手教程: WJX1/onetime.md
     - 日常笔记: WJX2/onetime2.md
+    - 恋爱日常: AMY1/love.md
 plugins:
   - mermaid2:
       arguments:
