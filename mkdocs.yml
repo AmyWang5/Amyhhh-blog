@@ -28,10 +28,13 @@ theme:
 
 nav:
   - 主页: index.md
-  - 新手教程: WJX1/onetime.md
-  - 日常笔记: WJX2/onetime2.md
+  - 新手教程: 
+     - 小白第一次用博客~: WJX1/onetime.md
+  - 日常笔记: 
+     - 11.2学习日记: WJX2/onetime2.md
   - 恋爱日常: AMY1/love.md
-  - 开会日常: WJX3/meeting1.md
+  - 开会日常:
+     - OSCA形势分享会: WJX3/meeting1.md
 plugins:
   - mermaid2:
       arguments:
