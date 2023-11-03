@@ -34,7 +34,7 @@ nav:
      - 11.2学习日记: WJX2/onetime2.md
   - 恋爱日常: AMY1/love.md
   - 开会日常:
-     - OSCA形势分享会: WJX3/meeting1.md
+     - OSCA芯片业形势分享会: WJX3/meeting1.md
 plugins:
   - mermaid2:
       arguments:
