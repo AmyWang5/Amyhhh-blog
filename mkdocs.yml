@@ -32,7 +32,8 @@ nav:
      - 小白第一次用博客~: WJX1/onetime.md
   - 日常笔记: 
      - 11.2学习日记: WJX2/onetime2.md
-  - 恋爱日常: AMY1/love.md
+  - 恋爱日常: 
+     - 11.19: AMY1/love.md
   - 开会日常:
      - OSCA芯片业形势分享会: WJX3/meeting1.md
 plugins:
