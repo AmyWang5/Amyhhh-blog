@@ -28,6 +28,7 @@ theme:
 
 nav:
   - 主页: index.md
+  - 日常小记: AMY2/daily.md
   - 新手教程: 
      - 小白第一次用博客~: WJX1/onetime.md
   - 日常笔记: 
