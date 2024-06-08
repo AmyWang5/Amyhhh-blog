@@ -38,6 +38,8 @@ nav:
      - 编码 笔记: WJX4/Book1.md
   - 开会日常:
      - OSCA芯片业形势分享会: WJX3/meeting1.md
+  - 学习日常:
+     - Frank 课程学习: AMY!/study.md
 plugins:
   - mermaid2:
       arguments:
